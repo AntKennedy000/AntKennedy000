@@ -1,10 +1,10 @@
-# Antony Kennedy Ribeiro de Arajo
+# Antony Kennedy Ribeiro de Araújo
 
 ## Credito, Risco e Dados
 
-Profissional do setor bancario em transicao para analise de credito, risco e dados, com foco em transformar dados em decisoes de negocio.
+Profissional do setor bancario em transição para análise de crédito, risco e dados, com foco em transformar dados em decisões de negócio.
 
-**Foco de carreira:** Credito Analytics | Risco de Credito | Data Science aplicada a servicos financeiros | Engenharia de Dados
+**Foco de carreira:** Credit Analytics | Risco de Credito | Data Science aplicada a servicos financeiros | Engenharia de Dados
 
 ## Projetos em destaque
 
