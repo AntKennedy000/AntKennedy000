@@ -2,7 +2,7 @@
 
 ## Credito, Risco e Dados
 
-Profissional do setor bancario em transição para análise de crédito, risco e dados, com foco em transformar dados em decisões de negócio.
+Profissional do setor bancário em transição para análise de crédito, risco e dados, com foco em transformar dados em decisões de negócio.
 
 **Foco de carreira:** Credit Analytics | Risco de Credito | Data Science aplicada a servicos financeiros | Engenharia de Dados
 
