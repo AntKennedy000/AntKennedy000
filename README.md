@@ -1,17 +1,20 @@
-# Dados aplicados a Crédito e Risco
+# Dados aplicados a Crédito, Risco e Rentabilidade
 
-Profissional do setor bancário, com atuação na linha de frente em diferentes jornadas de produtos financeiros para pessoas físicas, incluindo concessão de limites, cartões, crédito pessoal e consignado, renegociações e outros produtos financeiros. Bacharel em Engenharia Civil, com pós-graduação em Engenharia de Software e Data Science, graduação em Engenharia da Computação em andamento e certificações profissionais do mercado financeiro, venho direcionando essa vivência de negócio e base técnica para crédito, risco e dados. Neste portfólio, desenvolvo projetos educacionais com dados públicos ou fictícios sobre políticas de crédito, fraude, análise de dados e engenharia de dados, buscando transformar informações em decisões mais explicáveis e responsáveis.
+Profissional do setor bancário com experiência em atendimento, produtos financeiros, concessão de crédito, renegociação de dívidas e rotinas operacionais. Bacharel em Engenharia Civil, pós-graduado em Data Science e Engenharia de Software e graduando em Engenharia da Computação.
 
-## Competências em desenvolvimento
+Desenvolvo projetos educacionais voltados à análise de crédito, risco, políticas de concessão, indicadores de negócio e engenharia de dados, utilizando dados públicos ou fictícios. Busco integrar conhecimento bancário e ferramentas analíticas para apoiar decisões mais consistentes, explicáveis e orientadas por dados.
 
-- Análise de crédito, risco e performance de carteira;
+## Competências técnicas
+
+- Análise de crédito, risco e desempenho de carteira;
 - SQL, Python, Power BI, PySpark e Databricks;
+- Estatística, Machine Learning e visualização de dados;
 - Engenharia de dados com Azure Data Factory, ADLS Gen2 e Azure DevOps;
 - Modelagem, validação e explicabilidade de modelos de risco.
 
 ## Princípios
 
-Projetos desenvolvidos com dados públicos ou fictícios, documentação de metodologia, resultados, limitações e uso responsável de dados e inteligência artificial.
+Projetos desenvolvidos com dados públicos ou fictícios, documentação de metodologia, resultados e limitações, respeitando o uso responsável de dados e inteligência artificial.
 
 ## Contato
 
