@@ -1,8 +1,14 @@
 # Dados aplicados a Crédito, Risco e Rentabilidade
 
-Profissional do setor bancário com experiência em atendimento, produtos financeiros, concessão de crédito, renegociação de dívidas e rotinas operacionais. Bacharel em Engenharia Civil, pós-graduado em Data Science e Engenharia de Software e graduando em Engenharia da Computação.
+Profissional do setor bancário com experiência em atendimento, produtos financeiros, concessão de crédito, renegociação de dívidas e rotinas operacionais. Bacharel em Engenharia Civil, pós-graduado em Engenharia de Software, pós-graduando em Data Science (em conclusão) e graduando em Engenharia da Computação.
 
 Desenvolvo projetos educacionais voltados à análise de crédito, risco, políticas de concessão, indicadores de negócio e engenharia de dados, utilizando dados públicos ou fictícios. Busco integrar conhecimento bancário e ferramentas analíticas para apoiar decisões mais consistentes, explicáveis e orientadas por dados.
+
+## Projetos em destaque
+
+- **[credit-risk-analytics](https://github.com/AntKennedy000/credit-risk-analytics)**: risco comportamental de crédito com Python, SQL e Machine Learning, sobre dados públicos (UCI, 30 mil clientes). Regressão logística e XGBoost calibrado, seleção por Brier, divisão por grupo sem vazamento, testes e CI. No teste reservado: ROC AUC 0,79 e KS 45,9%. Projeto educacional, não validado para concessão real de crédito.
+- **[deteccao-fraudes-transacoes](https://github.com/AntKennedy000/deteccao-fraudes-transacoes)**: classificação de fraudes em base pública desbalanceada, com comparação de modelos e estratégias de balanceamento, escolha de limiar e explicabilidade com SHAP.
+- **[credipolicy-motor-de-credito](https://github.com/AntKennedy000/credipolicy-motor-de-credito)**: simulador de políticas de crédito em Java 21 e Spring Boot, com decisões explicadas, histórico em SQL e experimento comparativo em Python. Dados sintéticos e regras ilustrativas.
 
 ## Competências técnicas
 
@@ -18,4 +24,4 @@ Projetos desenvolvidos com dados públicos ou fictícios, documentação de meto
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/antony-kennedy-b13981255/)
+[LinkedIn](https://www.linkedin.com/in/antony-kennedy-ribeiro-de-ara%C3%BAjo-c-pro-i-b13981255/)
